@@ -9,7 +9,7 @@ public class Main {
 		
 		
 		System.out.println("denefsddsssdsmsegchg");
-		System.out.println("deneme 2");
+		System.out.println("denemde 2");
 		
 	
 
